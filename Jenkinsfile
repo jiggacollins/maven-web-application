@@ -52,3 +52,14 @@ node
  */
  
  }
+node {
+  stage('SCM') {
+    checkout scm
+  }
+  stage('SonarQube Analysis') {
+    def mvn = tool 'Maven3.9.2 LWP project';
+    withSonarQubeEnv() {
+      sh "${mvn}/bin/mvn clean verify sonar:sonar -Dsonar.projectKey=ProjectLWP -Dsonar.projectName='ProjectLWP'"
+    }
+  }
+}
