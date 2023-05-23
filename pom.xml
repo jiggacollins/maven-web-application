@@ -104,7 +104,7 @@
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://100.26.58.117:8081/repository/project2003snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> 
 	    
 	</distributionManagement>
 	
