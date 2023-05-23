@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.58.117:8081/repository/Project2003releases/</url>
+	      <url>http://100.26.58.117:8081/repository/project2003-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.26.58.117:8081/repository/Projecct2003snapshot/</url>
+	      <url>http://100.26.58.117:8081/repository/project2003snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
