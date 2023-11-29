@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to LearnWithPride Solutions, London, UK Office.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions for millions of clients.
-	We offer the best Training for DevOps with Linux and Cloud. Equipping IT Engineers for best performance and Jigga Collins built this, start of many builts. Thank me later.</h1>
+	We offer the best Training for DevOps with Linux and Cloud. Equipping IT Engineers for best performance and Jigga Collins built this, start of many builds. We are taking this to higher levels and higher grounds Thank me later.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
